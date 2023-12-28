@@ -5,7 +5,7 @@
 </div>
 
 <div align="center">
-<img alt="Anurag's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=janghawon&amp;show_icons=true&amp;theme=transparent">
+<img width="33%" alt="Anurag's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=janghawon&amp;show_icons=true&amp;theme=transparent">
 
 <td nowrap><a href="https://keen-raver-849.notion.site/8cfe8212894b45bdbbec2?08725816947pvs=4"><img width="33%" src="https://media.discordapp.net/attachments/1189400535120482416/1189830802100457522/image-removebg-preview_95.png?ex=659f9749&is=658d2249&hm=144dea2807884ec8498e9ca166dec9991c1b99a64296dd9e4127515f92713ebc&"></a></td>
 
