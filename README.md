@@ -2,7 +2,7 @@
 </br>
 <div align="right">
 <h1><b> 개발자가 굴러야 유저들이 만족한다.</b></h1>
-</div>
+
 
 <div align="center">
 <img src="https://img.shields.io/badge/unity-000000?style=for-the-badge&logo=Unity&logoColor=white">
@@ -10,7 +10,7 @@
 <img src="https://img.shields.io/badge/cpp-00599C?style=for-the-badge&logo=cplusplus&logoColor=white">
 <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
 <img src="https://img.shields.io/badge/vs-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white">
-
+</div>
 </br>
   
 <img width="32%" alt="Anurag's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=janghawon&amp;show_icons=true&amp;theme=transparent">
