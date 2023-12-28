@@ -1,1 +1,2 @@
-<img width="945" src="[https://media.discordapp.net/attachments/1148412501332086815/1189740795297812551/image.png?ex=659f4375&is=658cce75&hm=c0a0fd75438963773285abed9a126ce0205e222fa66596bdba19ed407561d62e&](https://media.discordapp.net/attachments/1189400535120482416/1189821389474107474/image-removebg-preview_-_2023-12-28T154455.602.png?ex=659f8e85&is=658d1985&hm=ef08ef6260dbf5dd2860062e2dbe3264a686b6f7c10a306dc75a5bfb82750cea&)https://media.discordapp.net/attachments/1189400535120482416/1189821389474107474/image-removebg-preview_-_2023-12-28T154455.602.png?ex=659f8e85&is=658d1985&hm=ef08ef6260dbf5dd2860062e2dbe3264a686b6f7c10a306dc75a5bfb82750cea&">
+<img width="100%" src="https://github.com/janghawon/janghawon/assets/98999600/1267bec9-1629-4c80-919e-997341a9ab63">
+
