@@ -1,8 +1,11 @@
 <img width="100%" src="https://github.com/janghawon/janghawon/assets/98999600/1267bec9-1629-4c80-919e-997341a9ab63">
 </br>
-<div align="center">
+<div align="right">
 <h1><b> 개발자가 굴러야 유저들이 만족한다.</b></h1>
+</div>
 
+<div align="center">
+  
 <img src="https://img.shields.io/badge/unity-000000?style=for-the-badge&logo=Unity&logoColor=white">
 <img src="https://img.shields.io/badge/csharp-512BD4?style=for-the-badge&logo=csharp&logoColor=white">
 <img src="https://img.shields.io/badge/cpp-00599C?style=for-the-badge&logo=cplusplus&logoColor=white">
