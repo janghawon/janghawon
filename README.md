@@ -20,7 +20,7 @@
   
 <img width="32%" alt="Anurag's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=janghawon&amp;show_icons=true&amp;theme=transparent">
 
-<td nowrap><a href="https://keen-raver-849.notion.site/8cfe8212894b45bdbbec2?08725816947pvs=4"><img width="30%" src="https://media.discordapp.net/attachments/1189400535120482416/1189842279834329088/2023-12-28_170706-removebg-preview.png?ex=659fa1f9&is=658d2cf9&hm=e7d202e219e6d46ce0df7268fb03e56b03685b1dc1a082de2f4ef3a2b4098ed9&"></a></td>
+<td nowrap><a href="https://keen-raver-849.notion.site/8cfe8212894b45bdbbec2?08725816947pvs=4"><img width="30%" src="https://velog.velcdn.com/images/bighello_0/post/c6f7b4d1-2f2f-4604-b81d-4d1be3fa946d/image.png"></a></td>
 
-<td nowrap><a href="http://ggm.gondr.net/user/profile/208"><img width="30%" src="https://media.discordapp.net/attachments/1189400535120482416/1189842280056639539/2023-12-28_170658-removebg-preview.png?ex=659fa1f9&is=658d2cf9&hm=f88763eed844a93e006d35d5d91545bddc6799d17ba4ce266f584ccebcf4e855&"></a></td>
+<td nowrap><a href="http://ggm.gondr.net/user/profile/208"><img width="30%" src="https://velog.velcdn.com/images/bighello_0/post/14c19182-6338-4039-9d3c-c5012008a9c1/image.png"></a></td>
 </div>
