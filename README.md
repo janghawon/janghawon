@@ -1,8 +1,7 @@
-
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Hawon's%20GitHub&fontSize=90"&fontSize=40/>
 <div align="right">
-<h1><b> 개발자가 굴러야 유저들이 만족한다.</b></h1>
 </div>
-
 <div align="center">
   
 <img src="https://img.shields.io/badge/unity-000000?style=for-the-badge&logo=Unity&logoColor=white">
