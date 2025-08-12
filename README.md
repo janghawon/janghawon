@@ -15,10 +15,4 @@
 <div align="center">
   
 </br>
-  
-<img width="32%" alt="Anurag's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=janghawon&amp;show_icons=true&amp;theme=transparent">
-
-<td nowrap><a href="https://keen-raver-849.notion.site/8cfe8212894b45bdbbec2?08725816947pvs=4"><img width="30%" src="https://velog.velcdn.com/images/bighello_0/post/c6f7b4d1-2f2f-4604-b81d-4d1be3fa946d/image.png"></a></td>
-
-<td nowrap><a href="http://ggm.gondr.net/user/profile/208"><img width="30%" src="https://velog.velcdn.com/images/bighello_0/post/14c19182-6338-4039-9d3c-c5012008a9c1/image.png"></a></td>
 </div>
